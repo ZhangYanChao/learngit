@@ -13,3 +13,5 @@ add five
 add six
 
 add seven
+
+reset six
